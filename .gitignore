@@ -1,0 +1,19 @@
+# Artefatos de compilacao Java
+build/
+out/
+bin/
+*.class
+*.jar
+*.war
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+
+# Sistema operacional
+Thumbs.db
+.DS_Store
